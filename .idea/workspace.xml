@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fdfb0aa-995c-4a64-9f38-7923d665309f" name="Default" comment="" />
+    <list default="true" id="9fdfb0aa-995c-4a64-9f38-7923d665309f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterJavaAplicacao/AdapterJavaAplicacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterJavaAplicacao/src/Aplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdappterMultiiplicacaoAdicao/src/Adaptador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdappterMultiiplicacaoAdicao/src/CalculadoraExistente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdappterMultiiplicacaoAdicao/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdappterMultiiplicacaoAdicao/src/Main.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +21,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Aplicacao.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdapterJavaAplicacao/src/Aplicacao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +40,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -40,6 +63,7 @@
         <option value="$PROJECT_DIR$/Flyweight/src/RealizaOperacao.java" />
         <option value="$PROJECT_DIR$/Flyweight/src/FlyweightFactory.java" />
         <option value="$PROJECT_DIR$/Flyweight/src/Flyweight.java" />
+        <option value="$PROJECT_DIR$/AdapterJavaAplicacao/src/Aplicacao.java" />
       </list>
     </option>
   </component>
@@ -54,6 +78,9 @@
     <option name="y" value="14" />
     <option name="width" value="1277" />
     <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -73,12 +100,12 @@
             <path>
               <item name="PadrõesdeProjeto" type="b2602c69:ProjectViewProjectNode" />
               <item name="PadrõesdeProjeto" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessandoArquivos" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterJavaAplicacao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PadrõesdeProjeto" type="b2602c69:ProjectViewProjectNode" />
               <item name="PadrõesdeProjeto" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessandoArquivos" type="462c0819:PsiDirectoryNode" />
+              <item name="AdapterJavaAplicacao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -93,6 +120,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AdappterMultiiplicacaoAdicao" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,12 +225,12 @@
       <workItem from="1554078948266" duration="595000" />
       <workItem from="1555518858938" duration="4240000" />
       <workItem from="1555541004331" duration="5285000" />
-      <workItem from="1555631059952" duration="4456000" />
+      <workItem from="1555631059952" duration="5566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20907000" />
+    <option name="totallyTimeSpent" value="22017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-11" width="1305" height="780" extended-state="6" />
@@ -213,12 +245,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27799842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27799842" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="ANTLR Preview" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -604,6 +636,13 @@
             <element signature="imports" expanded="true" />
             <element signature="e#145#154#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdapterJavaAplicacao/src/Aplicacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

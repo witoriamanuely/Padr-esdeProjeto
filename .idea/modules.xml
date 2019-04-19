@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterJavaAplicacao/AdapterJavaAplicacao.iml" filepath="$PROJECT_DIR$/AdapterJavaAplicacao/AdapterJavaAplicacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/PadrõesdeProjeto.iml" filepath="$PROJECT_DIR$/PadrõesdeProjeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProcessandoArquivos/ProcessandoArquivos.iml" filepath="$PROJECT_DIR$/ProcessandoArquivos/ProcessandoArquivos.iml" />
