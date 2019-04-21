@@ -1,6 +1,18 @@
-java.util.Map
 public class Aplicacao {
-    public Aplicacao(int linha1, int linha2){
+    int[][] matriz;
 
+    public Aplicacao(){}
+
+    public Aplicacao(int[][] matriz){
+       this.matriz = matriz;
+        }
+
+    public int[] getChave() {
+        return this.matriz[0];
+    }
+
+    public int[] getValor(){
+        return  this.matriz[1];
     }
 }
+

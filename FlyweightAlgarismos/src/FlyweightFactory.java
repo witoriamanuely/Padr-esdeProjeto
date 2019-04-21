@@ -1,3 +1,4 @@
+import java.io.SyncFailedException;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -14,8 +15,15 @@ public class FlyweightFactory {
     }
     public void imprimeAleatorio(){
         for (int i = 0; i < flyweights.size(); i++){
-        System.out.println(flyweights.get(aleatorio.nextInt(flyweights.size())));
-    }}
+            System.out.print((i+1)+"º N: ");
+            for (int j = 0; j < flyweights.size(); j++){
+                System.out.print(flyweights.get(aleatorio.nextInt(flyweights.size())));
+
+            }
+            System.out.print("\n");
+        }
+
+    }
 
 
 }
